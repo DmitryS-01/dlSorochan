@@ -1,0 +1,14 @@
+{
+  "model": "Transformer",
+  "params": 179718,
+  "cv_macro_f1_mean": 0.9278233438725075,
+  "cv_macro_f1_std": 0.04749979033510488,
+  "cv_accuracy_mean": 0.9269378988781609,
+  "final_epochs": 9,
+  "test_accuracy": 0.9114353579911775,
+  "test_balanced_accuracy": 0.9125070629215676,
+  "test_macro_f1": 0.9109698600559355,
+  "train_time_s": 19.82256141700782,
+  "cv_time_s": 89.48066791701422,
+  "latency_ms": 0.08784274414097126
+}
