@@ -1,0 +1,14 @@
+{
+  "model": "EdgeMTSC-pairwise",
+  "params": 181376,
+  "cv_macro_f1_mean": 0.9373539064675495,
+  "cv_macro_f1_std": 0.05280300056148575,
+  "cv_accuracy_mean": 0.9350899348151174,
+  "final_epochs": 4,
+  "test_accuracy": 0.9338310145911096,
+  "test_balanced_accuracy": 0.9350249614515871,
+  "test_macro_f1": 0.9344506292770789,
+  "train_time_s": 6.438470709006651,
+  "cv_time_s": 42.30099775000417,
+  "latency_ms": 0.030951848983704622
+}
