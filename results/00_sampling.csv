@@ -1,0 +1,10 @@
+channel,step,sampling_hz,period_ms,samples_per_window
+body_acc_x,1,50.0,20.0,128
+body_acc_y,2,25.0,40.0,64
+body_acc_z,3,16.666666666666668,60.0,43
+body_gyro_x,4,12.5,80.0,32
+body_gyro_y,5,10.0,100.0,26
+body_gyro_z,2,25.0,40.0,64
+total_acc_x,3,16.666666666666668,60.0,43
+total_acc_y,4,12.5,80.0,32
+total_acc_z,5,10.0,100.0,26
