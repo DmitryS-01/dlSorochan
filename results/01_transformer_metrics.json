@@ -1,0 +1,12 @@
+{
+  "model": "Transformer",
+  "device": "mps",
+  "params": 462918,
+  "best_epoch": 17,
+  "selection_time_s": 114.0084976250073,
+  "train_time_s": 78.33336066699121,
+  "latency_ms_sample": 0.20254176585803274,
+  "accuracy": 0.9148286392941974,
+  "balanced_accuracy": 0.9152100387214214,
+  "macro_f1": 0.9136717782510245
+}

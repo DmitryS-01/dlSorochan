@@ -1,0 +1,8 @@
+{
+  "device": "mps",
+  "accelerator": "Apple Metal Performance Shaders",
+  "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "python": "3.14.7",
+  "torch": "2.14.0",
+  "cpu_count": 14
+}
