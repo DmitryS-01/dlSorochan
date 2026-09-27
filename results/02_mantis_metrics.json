@@ -1,0 +1,13 @@
+{
+  "model": "Mantis+ frozen",
+  "checkpoint": "paris-noah/MantisPlus",
+  "best_layer": 0,
+  "best_scale": "128+512",
+  "feature_dim": 9216,
+  "selection_time_s": 146.38790558313485,
+  "train_time_s": 13.624983875022735,
+  "latency_ms_sample": 1.6975417515886477,
+  "accuracy": 0.9776043434000679,
+  "balanced_accuracy": 0.9772481911014212,
+  "macro_f1": 0.9778026714406763
+}
